@@ -1,0 +1,21 @@
+{
+    "name": "HybridCLRLink.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:86ef9541e6d85f242be88e2808bee3e6",
+        "GUID:2373f786d14518f44b0f475db77ba4de",
+        "GUID:907e470871cb8764dbe63dfc6f6440a7",
+        "GUID:ab1aaa26bb5b3604d8858974c0414600"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
