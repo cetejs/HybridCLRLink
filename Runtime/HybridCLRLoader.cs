@@ -19,7 +19,7 @@ namespace HybridCLRLink
                 GameLogger.Log($"LoadMetadataForAOTAssembly:{dll.name}. mode:{HomologousImageMode.SuperSet} ret:{error}");
             }
 
-            bundle.Unload(true);
+            AssetManager.Instance.UnloadBundle(AOTDllBundleName, true);
         }
     }
 }
